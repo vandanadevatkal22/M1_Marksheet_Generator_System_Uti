@@ -1,4 +1,4 @@
-IDENTIFYING FEATURES: 
+# IDENTIFYING FEATURES: 
 * PassWord protected
 * Able to generate, store and display the sheet
 * Automatic operations of internal calculations 
@@ -8,13 +8,13 @@ IDENTIFYING FEATURES:
 * Final result is displayed
 
 
-4W's 1-H
+# 4W's 1-H
 WHAT
-Description of the problem
-* In current Marksheet generation system, the University has to spend time in arranging the copies
-* The grading is done mannually in some colleges
-* Time consumption in verifying the sheets
-* Requires manpower
+* Description of the problem
+    * In current Marksheet generation system, the University has to spend time in arranging the copies
+    * The grading is done mannually in some colleges
+    * Time consumption in verifying the sheets
+    * Requires manpower
 
 WHO
-The responsible parties
+* The responsible parties
