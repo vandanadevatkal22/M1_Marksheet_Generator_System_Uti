@@ -1,5 +1,5 @@
 # IDENTIFYING FEATURES: 
-* PassWord protected
+* Password protected
 * Able to generate, store and display the sheet
 * Automatic operations of internal calculations 
 * Basic information of students are taken as an input
@@ -18,3 +18,23 @@ WHAT
 
 WHO
 * The responsible parties
+    * Examination department of the University
+
+WHERE
+* The location of the problem
+    * University/ Educational institutes 
+
+WHEN
+* Temporal characteristics of the problem
+    * Result announcement 
+
+HOW
+* The effects of the problem
+    * Calculation errors
+    * Time consumption 
+
+WHY
+* Motivation of the problem
+    * Reduce the time consumption
+    * Automate the calculation process
+    * Reduce the cost as less people are involed in this system 
