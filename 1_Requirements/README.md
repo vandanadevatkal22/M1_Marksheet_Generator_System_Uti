@@ -38,3 +38,15 @@ WHY
     * Reduce the time consumption
     * Automate the calculation process
     * Reduce the cost as less people are involed in this system 
+
+# HIGH LEVEL REQUIREMENTS 
+
+* High level:
+    * It should be password protected
+    * System should be quick
+    * Automatic calculations
+
+* LOW LEVEL:
+    * Numeric password should be provided by the user
+    * Grades are calculated according to the rule provided 
+
