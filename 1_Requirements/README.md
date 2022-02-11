@@ -48,7 +48,7 @@ WHY
     * System should be quick
     * Automatic calculations
 
-* LOW LEVEL:
+* Low level:
     * Numeric password should be provided by the user
     * Grades are calculated according to the rule provided 
 
