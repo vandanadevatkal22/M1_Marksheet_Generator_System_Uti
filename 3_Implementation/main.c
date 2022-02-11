@@ -11,16 +11,16 @@ int pass, x=10;
     {
 
 
-	input();
-	calculations();
-	m3();
-	edc();
-	emi();
-	oopds();
-	nas();
-	result();
-	remark();
-	show();
+	Input();
+	Calculations();
+	M3();
+	Edc();
+	Emi();
+	Oopds();
+	Nas();
+	Result();
+	Remark();
+	Show();
 	return 0;
 
     }

@@ -1,16 +1,16 @@
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
-void input();
-int calculations();
-void show();
-void m3();
-void edc();
-void emi();
-void oopds();
-void nas();
-void result();
-void remark();
+void Input();
+int Calculations();
+void Show();
+void M3();
+void Edc();
+void Emi();
+void Oopds();
+void Nas();
+void Result();
+void Remark();
 int m,m1,n,n1,o,o1,p,p1,q1,q2,r,total,per,t1,t2,t3,t4,t5;
 char b[20],ch[20],a[50],d[30],grade,res[5],rem[16],q,x,y,u,v;
 char s[] = "pass";
@@ -31,16 +31,16 @@ int pass, x=10;
     {
 
 
-	input();
-	calculations();
-	m3();
-	edc();
-	emi();
-	oopds();
-	nas();
-	result();
-	remark();
-	show();
+	Input();
+	Calculations();
+	M3();
+	Edc();
+	Emi();
+	Oopds();
+	Nas();
+	Result();
+	Remark();
+	Show();
 	return 0;
 
     }
@@ -54,7 +54,7 @@ int pass, x=10;
 }
 
 
-void input(){
+void Input(){
 	printf("Enter your name : ");
 	gets(ch);
 	printf("Enter place : ");
@@ -138,7 +138,7 @@ void input(){
 	            goto subj4;
 		}
 }
-void show(){
+void Show(){
 	int i=0,i1=0,j=0,j1=0,k=0,k1=0,l=0,l1=0;
 	while(i1<113){
 		printf("*");
@@ -193,7 +193,7 @@ void show(){
 
 
 }
-int calculations(){
+int Calculations(){
 
 	char res[5];
 	t1=m+m1;
@@ -218,7 +218,7 @@ int calculations(){
 	else
           grade = 'F';
 }
-void m3(){
+void M3(){
 	if(t1<40){
 		q ='#';
 
@@ -227,7 +227,7 @@ void m3(){
 	    q = ' ';
 
 }
-void edc(){
+void Edc(){
 	if(t2<40){
 		x ='#';
 
@@ -236,7 +236,7 @@ void edc(){
 	    x = ' ';
 	fflush(stdin);
 }
-void emi(){
+void Emi(){
 	if(t3<40){
 		y ='#';
 		fflush(stdin);
@@ -245,7 +245,7 @@ void emi(){
 	    y = ' ';
 	fflush(stdin);
 }
-void oopds(){
+void Oopds(){
 	if(t4<40){
 		u ='#';
 		fflush(stdin);
@@ -254,7 +254,7 @@ void oopds(){
 	    u = ' ';
 	fflush(stdin);
 }
-void nas(){
+void Nas(){
 	if(t5<40){
 		v ='#';
 		fflush(stdin);
@@ -263,14 +263,14 @@ void nas(){
 	    v = ' ';
 	fflush(stdin);
 }
-void result(){
+void Result(){
 	if(per>40){
 		strcpy(res,s);
 	}
 	else
 	    strcpy(res,s1);
 }
-void remark(){
+void Remark(){
 	if(per>40){
 		strcpy(rem,s3);
 	}
