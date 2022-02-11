@@ -41,7 +41,7 @@ WHY
 # SWOT analysis
  ![SWOT](https://user-images.githubusercontent.com/66207959/153557024-3f42b70f-6d25-45a0-b476-de9a99074c96.PNG)
 
-# HIGH LEVEL REQUIREMENTS 
+# HIGH LEVEL AND LOW LEVEL REQUIREMENTS 
 
 * High level:
     * It should be password protected
