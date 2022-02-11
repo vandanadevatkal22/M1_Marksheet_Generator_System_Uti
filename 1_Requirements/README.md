@@ -38,6 +38,8 @@ WHY
     * Reduce the time consumption
     * Automate the calculation process
     * Reduce the cost as less people are involed in this system 
+# SWOT analysis
+ ![SWOT](https://user-images.githubusercontent.com/66207959/153557024-3f42b70f-6d25-45a0-b476-de9a99074c96.PNG)
 
 # HIGH LEVEL REQUIREMENTS 
 
