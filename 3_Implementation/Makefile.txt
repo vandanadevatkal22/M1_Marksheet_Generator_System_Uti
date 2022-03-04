@@ -1,0 +1,9 @@
+#Target : Dependencies
+#<TAB>commands
+Build : project_main.c main.c
+	gcc project_main.c main.c -o main.out
+Run : main.out
+	./main.out
+
+Clean : 
+	rm -rf *.o*.out *.i *.s
