@@ -1,3 +1,5 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/bae6e20367194377bff37a5f2c41542d)](https://www.codacy.com/gh/vandanadevatkal22/M1_Marksheet_Generator_System_Uti/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=vandanadevatkal22/M1_Marksheet_Generator_System_Uti&amp;utm_campaign=Badge_Grade)
+
 # M1_Marksheet_Generator_System_Uti
 
 ## Abstract
